@@ -12,7 +12,7 @@ I was asked to complete an election audit of a recent local congressional electi
 ## Resources
 Data Source: election_results.csv
 
-## the analysis of the election show that:
+## The analysis of the election shows that:
   . There were 369,711 votes made in the election
   
   . The candidates were:
