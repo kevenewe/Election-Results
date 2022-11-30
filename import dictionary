@@ -1,0 +1,23 @@
+# read in Csv file and store in a dictionary
+
+# set up dictionary
+
+import os 
+
+with open ('resources\election_results.csv', mode='r') as infile:
+    reader = csv.DictReader (infile)
+    for row in reader:
+        print (row)
+
+    #results = dict((rows[0], rows[1]) for rows in reader)
+    
+#print (results)
+
+
+
+# get candidates
+
+# count total number of votes
+
+# count total number of votes for each Candidate
+
